@@ -11,7 +11,6 @@ import campera9 from "../data/campera9.png";
 import campera10 from "../data/campera10.png";
 import colors from "../data/colors.png";
 import hoodie from "../data/hoodie.png";
-import ImageList from '@mui/material/ImageList';
 export const ItemData = [
         {
         img: campera,

@@ -35,4 +35,4 @@ function CardsComponent({img, text,color, colors, price}) {
 )}
 
 
-export default CardsComponent;
+export default CardsComponent; 
