@@ -15,81 +15,76 @@ export const ItemData = [
         {
         img: campera,
         color: 'Amarillo',
-        colors: colors1,
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',
       },
       {
         img: campera1,
         color: 'Negro',
-        colors: colors1,
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  },
       {
         img: campera2,
         color: 'Negro',
-        colors: colors1,
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  },
       {
         img: campera3,
         color: 'Negro',
-        colors: colors1,
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  },
       {
         img: campera4,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD', 
      },
       {
         img: campera5,
         color: 'Negro',
-        colors: colors1,
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  
     },
       {
         img: campera6,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  
     },
       {
         img: campera7,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  
     },
       {
         img: campera8,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  
     },
       {
         img: campera9,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',  
     },
       {
         img: campera10,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',
       },
       {
         img: hoodie,
         color: 'Negro',
-        colors: colors1,
+
         text: '365 Signature sudadera con capucha',
         price: '$ 175 USD',
       },
