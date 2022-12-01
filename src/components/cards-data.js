@@ -9,7 +9,6 @@ import campera7 from "../data/campera7.png";
 import campera8 from "../data/campera8.png";
 import campera9 from "../data/campera9.png";
 import campera10 from "../data/campera10.png";
-import colors from "../data/colors.png";
 import hoodie from "../data/hoodie.png";
 export const ItemData = [
         {
